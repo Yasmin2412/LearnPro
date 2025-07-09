@@ -1,0 +1,30 @@
+.course-card {
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 16px;
+  width: 250px;
+  background-color: #f9f9f9;
+  box-shadow: 2px 4px 8px rgba(0,0,0,0.1);
+}
+
+.course-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.home {
+  text-align: center;
+  padding: 30px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: #f8fafc;
+}
