@@ -83,10 +83,10 @@ This will run on: http://localhost:3000
 📸 Screenshots
 Add your screenshots in a /screenshots folder and link them like below:
 
-![Home Page](./screenshots/screenshot(380).png)
+![Home Page](./Screenshots/Screenshot(380).png)
 
 ### 🔐 Login Page
-![Login Page](./screenshots/screenshot(384).png)
+![Login Page](./Screenshots/Screenshot(384).png)
 
 🚀 Deployment (Optional)
 Frontend: Vercel / Netlify
