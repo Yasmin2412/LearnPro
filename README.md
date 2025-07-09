@@ -25,16 +25,16 @@ LearnPro is a full-stack Learning Management System (LMS) built using the MERN s
 ## 📁 Project Structure
 
 LearnPro/
-├── learnpro-frontend/ # React Frontend
+├── frontend/ # React Frontend
+
 │ └── ...
-├── learnpro-backend/ # Node + Express Backend
+├── backend/ # Node + Express Backend
+
 │ └── ...
 ├── .gitignore
 ├── README.md
 
-yaml
 
----
 
 ## ⚙️ Setup Instructions
 
@@ -83,10 +83,10 @@ This will run on: http://localhost:3000
 📸 Screenshots
 Add your screenshots in a /screenshots folder and link them like below:
 
-![Home Page](./Screenshots/Screenshot(380).png)
+![Home Page](./screenshots/home.png)
 
 ### 🔐 Login Page
-![Login Page](./Screenshots/Screenshot(384).png)
+![Login Page](./screenshots/login.png)
 
 🚀 Deployment (Optional)
 Frontend: Vercel / Netlify
